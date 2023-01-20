@@ -1,12 +1,4 @@
-<template>
-  <div id="life">
-    <div id="title">Death</div>
-    <img alt="tombstone" src="../assets/Life.jpeg" />
-    <div id="caption">gives life meaning</div>
-  </div>
-</template>
 
-<style>
 #life {
   aspect-ratio: 1 / 1;
   width: 200pt;
@@ -29,4 +21,3 @@ img {
   display: inline-block;
   width: 50%;
 }
-</style>
