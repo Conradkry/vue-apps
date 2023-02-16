@@ -1,0 +1,21 @@
+
+legend {
+    font-size: 25px;
+}
+#main {
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div {
+    padding: 5px;
+}
+#preview-img {
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+}
+input {
+    border-color: rgb(136, 136, 255);
+    border-radius: 5px;
+}
